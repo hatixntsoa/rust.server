@@ -17,7 +17,7 @@ A lightweight web server implemented in Rust, designed to serve static HTML cont
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/h471x/rust_server.git
+   git clone https://github.com/hatixntsoa/rust_server.git
    cd rust_server
    ```
 
