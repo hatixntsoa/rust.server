@@ -1,6 +1,6 @@
 [package]
-name = "rust_server"
-version = "0.1.0"
+name = "rust.server"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
